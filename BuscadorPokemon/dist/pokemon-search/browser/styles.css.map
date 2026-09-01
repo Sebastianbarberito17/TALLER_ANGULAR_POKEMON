@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/styles.css"],
+  "sourcesContent": [":root {\n  --brand: #b91c1c;\n  --brand-dark: #7f1d1d;\n  --ink: #1a1a2e;\n  --muted: #6b7280;\n  --surface: #ffffff;\n  --bg: #f4f5fb;\n  --accent: #ffcb05;\n}\n\n* {\n  box-sizing: border-box;\n}\n\nhtml,\nbody {\n  margin: 0;\n  padding: 0;\n  min-height: 100%;\n}\n\nbody {\n  font-family: 'Inter', system-ui, sans-serif;\n  color: var(--ink);\n  background: radial-gradient(circle at 20% 0%, #eef1ff 0%, var(--bg) 55%);\n  -webkit-font-smoothing: antialiased;\n}\n\nh1,\nh2,\nh3 {\n  font-family: 'Poppins', system-ui, sans-serif;\n  margin: 0;\n}\n"],
+  "mappings": ";AAAA;AACE,WAAS;AACT,gBAAc;AACd,SAAO;AACP,WAAS;AACT,aAAW;AACX,QAAM;AACN,YAAU;AACZ;AAEA;AACE,cAAY;AACd;AAEA;AACA;AACE,UAAQ;AACR,WAAS;AACT,cAAY;AACd;AAEA;AACE;AAAA,IAAa,OAAO;AAAA,IAAE,SAAS;AAAA,IAAE;AACjC,SAAO,IAAI;AACX;AAAA,IAAY;AAAA,MAAgB,OAAO,GAAG,IAAI,EAAE;AAAA,MAAE,QAAQ,EAAE;AAAA,MAAE,IAAI,MAAM;AACpE,0BAAwB;AAC1B;AAEA;AACA;AACA;AACE;AAAA,IAAa,SAAS;AAAA,IAAE,SAAS;AAAA,IAAE;AACnC,UAAQ;AACV;",
+  "names": []
+}
