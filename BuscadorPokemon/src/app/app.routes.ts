@@ -21,4 +21,6 @@ export const routes: Routes = [
     {path: 'haxorus_manual', component: Haxorus},
     {path: 'goodra_manual', component: Goodra},
     {path: 'Flechinder_manual', component: Flechinder}
+    {path: 'pokemon-detalle', component: Flechinder}
+
 ];
